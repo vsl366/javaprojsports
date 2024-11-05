@@ -1,0 +1,91 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Login1",
+            "request": "launch",
+            "mainClass": "Login1",
+            "classpath": [
+                "lib/*",
+                "src"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BodyCheck",
+            "request": "launch",
+            "mainClass": "BodyCheck",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "CoachesSelection",
+            "request": "launch",
+            "mainClass": "CoachesSelection",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "DoActivity",
+            "request": "launch",
+            "mainClass": "DoActivity",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "EmailSender",
+            "request": "launch",
+            "mainClass": "EmailSender",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "EquipmentSelection",
+            "request": "launch",
+            "mainClass": "EquipmentSelection",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "Gear",
+            "request": "launch",
+            "mainClass": "Gear",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "Layout",
+            "request": "launch",
+            "mainClass": "Layout",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "Shoe",
+            "request": "launch",
+            "mainClass": "Shoe",
+            "projectName": "Semproj_7974d092"
+        },
+        {
+            "type": "java",
+            "name": "Terrain",
+            "request": "launch",
+            "mainClass": "Terrain",
+            "projectName": "Semproj_7974d092"
+        }
+    ]
+}

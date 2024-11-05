@@ -1,0 +1,2 @@
+Main-Class: Login1
+Class-Path: . C:/Users/VISHAL/Desktop/Resources/Java/javax.mail.jar C:/Users/VISHAL/Desktop/Resources/Java/activation.jar C:/Users/VISHAL/Desktop/Resources/Java/postgresql-42.7.4.jar
